@@ -1,3 +1,9 @@
+
+## About me
+
+Passionate about C ++, malware, satellite images, network.  
+My favorite mantra : [Defend free speech. Fight surveillance. Support innovation.](https://act.eff.org/)  
+
 ## Contact
 
 [Twitter](https://twitter.com/Rafios06)  
