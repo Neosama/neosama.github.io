@@ -1,7 +1,7 @@
 
 ## About me
 
-Passionate about C ++, malware, OSINT, network.  
+C++, malware, OSINT.  
 [Defend free speech. Fight surveillance. Support innovation.](https://act.eff.org/)  
 
 ## Contact
