@@ -1,7 +1,7 @@
 
 ## About me
 
-C++, malware, OSINT.  
+C++, malwares, networks protocols.  
 [Defend free speech. Fight surveillance. Support innovation.](https://act.eff.org/)  
 
 ## Contact
